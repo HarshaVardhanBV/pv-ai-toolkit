@@ -39,7 +39,7 @@
 <text x="199" y="270" text-anchor="middle" font-size="10" font-weight="700" fill="#3a5bd9">Opus</text>
 <text x="38" y="280" font-size="15" font-weight="700" fill="#1c1c1a">Safety Agent</text>
 <text x="38" y="299" font-size="10.5" fill="#55565a">P4 · openFDA tool-use loop</text>
-<text x="38" y="315" font-size="10.5" font-weight="700" fill="#3a5bd9">→ PRR · ROR · EBGM signals</text>
+<text x="38" y="315" font-size="10.5" font-weight="700" fill="#3a5bd9">→ PRR · ROR · IC signals</text>
 <line x1="228" y1="288" x2="250" y2="288" stroke="#8a8b8f" stroke-width="1.4" marker-end="url(#ar)"/>
 
 <rect x="252" y="250" width="196" height="76" rx="10" fill="#ffffff" stroke="#b7b8b0"/>
